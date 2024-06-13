@@ -42,7 +42,7 @@ main {
     padding: 2rem 0;
 }
 
-.product-grid {
+.product-container {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
